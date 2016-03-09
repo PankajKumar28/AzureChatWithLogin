@@ -1,0 +1,2 @@
+D:\Pankaj Kumar\Arunabh Sir\Node JS\project\PankajAzureChatWithLogin\PankajAzureChatWithLogin\obj\Debug\PankajAzureChatWithLogin.njsprojResolveAssemblyReference.cache
+D:\Pankaj Kumar\Arunabh Sir\Node JS\project\PankajAzureChatWithLogin\PankajAzureChatWithLogin\bin\Microsoft.NodejsTools.WebRole.dll
